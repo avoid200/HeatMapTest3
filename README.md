@@ -14,4 +14,7 @@ Auf gemeldete Fehler kann darum nur sporadisch eingegangen werden.
 Der Code kann gerne weiterverwendet werden.
 
 ## Links
-Derzeit gibt es keine Links mit weiterführenden Informationen oder Quellenangaben.
+Links mit weiterführenden Informationen oder Quellenangaben zu Codefragmenten sind:
+- http://dylanvester.com/2015/10/creating-heat-maps-with-net-20-c-sharp/
+- https://www.codeproject.com/Articles/Joe-Pardue#Article
+- https://docs.microsoft.com/de-de/dotnet/framework/winforms/advanced/how-to-create-a-linear-gradient
