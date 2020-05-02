@@ -1,6 +1,8 @@
 # HeatMapTest3
 Ein Projekt um das erstellen einer transparenten HeatMap zu testen.
 
+![Bild der Anwendung](https://github.com/avoid200/HeatMapTest3/blob/master/BitmapTest3.png)
+
 ## Beschreibung
 Dieses Projekt beinhaltet eine C# Anwendung zum testen, wie eine HeatMap (colorierte NoiceMap) erzeugt und als transparentes Overlay verwendet werden kann.
 
