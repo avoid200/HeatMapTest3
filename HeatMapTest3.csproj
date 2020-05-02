@@ -86,5 +86,8 @@
   <ItemGroup>
     <None Include="Grundriss400.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="BitmapTest3.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
