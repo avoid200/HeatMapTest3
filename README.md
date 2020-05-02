@@ -20,3 +20,4 @@ Links mit weiterführenden Informationen oder Quellenangaben zu Codefragmenten s
 - http://dylanvester.com/2015/10/creating-heat-maps-with-net-20-c-sharp/
 - https://www.codeproject.com/Articles/Joe-Pardue#Article
 - https://docs.microsoft.com/de-de/dotnet/framework/winforms/advanced/how-to-create-a-linear-gradient
+- http://www.bildungsgueter.de/CSharp/Pages/Inhaltsverzeichnis.htm
